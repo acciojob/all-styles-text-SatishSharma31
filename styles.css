@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+body { font-family:poppins; }
+.main { width:200px; background-color:purple; border-left:5px solid green; padding:10px;}
+h1.heading { font-size:20px; color:#fff; text-decoration:underline;}
+#heading {color:#fff;}
